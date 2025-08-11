@@ -34,7 +34,6 @@ I’m passionate about **turning ideas into impactful digital solutions** — fr
 
 ## 📊 GitHub Stats
 
-![Ysha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gillianneysha\&show_icons=true\&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillianneysha\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gillianneysha\&layout=compact\&theme=radical)
 
