@@ -2,7 +2,7 @@
 
 **BS Information Systems Student** | Aspiring Full-Stack Developer | IoT & PWA Enthusiast
 
-I’m passionate about **turning ideas into impactful digital solutions** — from healthcare apps that improve accessibility to IoT projects that bring smart concepts to life. I thrive at the intersection of **problem-solving, design, and code**, creating projects that put **people first** while exploring the endless possibilities of technology.
+I’m passionate about **turning ideas into impactful digital solutions** — from healthcare apps that improve accessibility to IoT projects that bring smart concepts to life. I thrive at the intersection of **problem-solving, design, and code**, creating projects that put **people first** while exploring technology.
 
 ---
 
@@ -11,9 +11,6 @@ I’m passionate about **turning ideas into impactful digital solutions** — fr
 * 🎓 **BS Information Systems** student passionate about blending tech with real-world impact
 * 💻 Skilled in **HTML, CSS, JavaScript, PHP, React, Tailwind CSS, Supabase**
 * 🌱 Leveling up in **Progressive Web Apps** and **Full-stack Development**
-* 🏆 Led **Google Developer Student Clubs Benilde** to **Top 5 Outstanding Organization** recognition, tripling member sign-ups from \~50 to 150
-* 🐶 Proud dog mom to **Nori** and an avid fan of space-themed UI designs
-
 ---
 
 ## Tech Stack
