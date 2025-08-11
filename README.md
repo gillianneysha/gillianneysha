@@ -35,7 +35,7 @@ I’m passionate about building solutions that make everyday life easier — fro
 ## 📊 GitHub Stats
 ![Ysha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gillianneysha&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillianneysha&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gillianneyshaE&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gillianneysha&layout=compact&theme=radical)
 
 ---
 
