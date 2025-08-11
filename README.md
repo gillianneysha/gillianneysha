@@ -42,7 +42,7 @@ I’m passionate about **turning ideas into impactful digital solutions** — fr
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/gillianne-ysha-lim/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat\&logo=firefox)](https://gillianneysha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=laptop&logoColor=white)](https://gillianneysha.vercel.app/)
 
 ---
 
