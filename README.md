@@ -2,7 +2,7 @@
 
 **BS Information Systems Student** | Aspiring **Full-Stack Developer** | IoT & PWA Enthusiast  
 
-I’m passionate about **turning ideas into impactful digital solutions** — from healthcare apps that improve accessibility to IoT projects that bring smart concepts to life. I thrive at the intersection of **problem-solving, design, and code**, creating projects that put **people first** while exploring technology.
+I’m passionate about **turning ideas into impactful digital solutions**, from healthcare apps that improve accessibility to IoT projects that bring smart concepts to life. I thrive at the intersection of **problem-solving, design, and code**, creating projects that put **people first** while exploring technology.
 
 ---
 
